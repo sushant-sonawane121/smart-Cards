@@ -1,0 +1,10 @@
+.app-body{
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    flex-wrap: wrap;
+   gap: 1rem;
+    
+
+}
